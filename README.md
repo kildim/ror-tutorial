@@ -1,5 +1,8 @@
 # README
 
+ror-tutorial является учебным проектом для усвоения материала 
+[учебного пособия](https://www.learnenough.com/ruby-on-rails-6th-edition) 
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
